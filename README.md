@@ -1,5 +1,5 @@
 ## ReactNative HTML Text
-The ReactNative `Text` element does not support any HTML tags by default so formatting such as paragraphs, italic and bold text used in standard HTML can be somewhat cumbersome to implement, or you are required to keep separate documents for App and Web implementations.  This simple `HtmlText` element is a drop-in replacement for the `Text` element but will parse a number of standard HTML tags.
+The ReactNative `Text` element does not support any HTML tags by default so formatting (e.g. paragraphs, italic and bold) used in standard HTML can be somewhat cumbersome to implement, or result in the need for separate 'documents' for App and Web implementations.  This simple `HtmlText` element is a drop-in replacement for the `Text` element but will parse a number of standard HTML tags.
 
 ### Example
 ![Before/After](./docs/example.jpg)
