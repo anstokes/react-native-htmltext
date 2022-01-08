@@ -1,0 +1,11 @@
+{
+  "name": "react-native-htmltext",
+  "version": "2022.01.08",
+  "dependencies": {
+    "expo-web-browser": "^10.1.0",
+    "prop-types": "^15.8.1",
+    "react": "17.0.1",
+    "react-native": "0.64.3",	
+  },
+  "private": true
+}
